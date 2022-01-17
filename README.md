@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/cocosir007">cocosir007</a> to mak
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser-MAALUTTYV3QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cocosir007/Hello-coco.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cocosir007/Hello-coco.DEPLOY) 
  
 ### The Hard Method
 ```js
